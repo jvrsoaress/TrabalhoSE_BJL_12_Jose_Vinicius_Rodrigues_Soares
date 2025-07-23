@@ -95,7 +95,7 @@ Uma estação meteorológica completa e interativa utilizando o Raspberry Pi Pic
 
 ## 🎥 Demonstração: 
 
-- Para ver o funcionamento do projeto, acesse o vídeo de demonstração gravado por José Vinicius em: 
+- Para ver o funcionamento do projeto, acesse o vídeo de demonstração gravado por José Vinicius em: https://youtu.be/bjlL0B2PEMk
 
 ## 💻 Desenvolvedor
  
